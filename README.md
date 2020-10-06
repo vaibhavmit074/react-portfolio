@@ -3,7 +3,7 @@
 ## 👇 SCREEN SHORT 👇
 
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://stupefied-tereshkova-6f3f5d.netlify.app/">LIVE DEMO</a>
 
