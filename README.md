@@ -1,7 +1,7 @@
 # Vaibhav Programmer ReactJS Portfolio Template      
 
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
+## 👇 SCREEN SHORT 👇
+
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
